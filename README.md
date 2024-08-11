@@ -39,36 +39,32 @@ This event, in the meantime, is being handled by security engineers after you an
 
 **Supporting Materials :**
 
-<a href="https://d3c33hcgiwev3.cloudfront.net/Cf51n9nbSD68ZTB5tTf3sA_a7545121c27b41a2b32db66f1cde7bf1_Botium-Toys-Scope-goals-and-risk-assessment-report.docx?Expires=1723507200&Signature=XcTzblQrAuiYEc3oYV06OKQMG3C6qKz6-r8Ae7fLvJSYvQVDuArQcXLAWBkRe03n36u8Hi~RLhzAE9hPU0ecSgSvzsAjQ~iWxi1Md0XjYw1NDlReZZq7rSaoxE~VMSk8oEiIEz0E-CrAzNQuroM36rMmcScRgOhtEFT7F9Pvpgw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"><img src="https://img.shields.io/badge/-MSword:Risk Assessment Report-0072b1?&style=for-the-badge&logo=word&logoColor=white" /></a>
-<a href="https://d3c33hcgiwev3.cloudfront.net/UlCuw8LhSSqoHh2mqEAU0g_a1ed3f7f746c4071ae68b52dd07e4df1_Control-categories.docx?Expires=1723507200&Signature=T~0F1idr8XCj9OLXF2xqDqYD4T7yGXDb6CvIJPyCdcGnghLAkKv8ajqv7QcjS3ldeEVbfNneUTOyO7tmqgMFeaAMb-BOafKAjoJXbmuUgtRwXn4MRoLVJWUmlgZdUrGTU5ZJem2JyY~j0MMPsxk5U0oAS6X8~Cl-7XTa-4GOObU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"><img src="https://img.shields.io/badge/-MSword:Control Categories-0072b1?&style=for-the-badge&logo=word&logoColor=white" /></a>
-<a href="https://d3c33hcgiwev3.cloudfront.net/sE_0LUF0RqCuA0FAF0KCPA_ef185c6c047247f882a8658018018df1_Controls-and-compliance-checklist.docx?Expires=1723507200&Signature=KfQznVeWr8O9eIJiAt6E6xv-gyBskQdXgzCrN~NcnUefRbE9rSEZOTWxWrbvGyv3XzbydkuQKb987dkmfZ0OGpXxosP9BhdvHnESo7Ww4p-A9MvQuQz9IG7bmnGOIMyMCcyZslCqfIiJYOZ43F0jzee~q4Oo6sG9g4a8VPNP4L0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A"><img src="https://img.shields.io/badge/-MSword:Controls and Compliance Checklist-0072b1?&style=for-the-badge&logo=word&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/1BSFXPX70UED_cYKbUe5jnBe0VpLI_9aaqVWAKu5U3eI/edit?usp=sharing&resourcekey=0-h3gHkqD6OCiMDCK79TRWRg"><img src="https://img.shields.io/badge/-GoogleDOC:Incident Report Template-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/1RquiQsvvIAV-eGE3YTlmhWDF_EWIRno532ZnlLe6i1Q/edit?usp=sharing"><img src="https://img.shields.io/badge/-GoogleDOC:Example of an Incident Report-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
 
-## Completed Security Audit Checklist
+## Completed Analysis of Network Traffic 
 
-<a href="https://docs.google.com/document/d/1Kb7iYaSfQvwlBihvcrle33uXFqdoqKPlxM4_ZIoXSBs/edit?usp=sharing
-"><img src="https://img.shields.io/badge/-GoogleDOCS:Security Audit Checklist-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/11YIrN6R3fTqw7AWeh_4YCB4QXK8VnO4_CYPSK2MU5xc/edit?usp=sharing "><img src="https://img.shields.io/badge/-GoogleDOCS:Network Traffic Analysis -FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
 
 ### Skills Learned
 
-Audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
+Analyzing tcdump logs and Finding root cause of Network Traffic.
 
-Controls and Compliances
-
-Security Risk Assesment
 
 
 ### Tools Used
 
-Control Categories 
+tcdump logs  
 
-Control and Compliance Checklist
 
 ## Steps
 
-1.**Assess Supporting Document** 
+1.**Access the template** 
 
-2.**Conduct the security audit by completing the controls and compliance checklist.**
+2.**Access supporting materials**
 
-3.**Make  a security audit using controls and compliance checklist**
+3.**Provide a summary of the problem found in the tcpdump log**
+
+4.**Explain your analysis of the data and provide one solution to implement**
